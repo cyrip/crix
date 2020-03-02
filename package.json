@@ -1,0 +1,24 @@
+{
+  "name": "crix",
+  "version": "1.0.0",
+  "description": "Cyrip's Crix by Zoltan Konya aka Cyrip in 2010/2011 (I made some little modifications for public repository version<br/> This game originally was developed for a HTML5 game competition in 2010 as remake of BRIX DOS game in javascript<br/> <hr/>",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyrip/crix.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyrip/crix/issues"
+  },
+  "homepage": "https://github.com/cyrip/crix#readme"
+}
